@@ -1,0 +1,28 @@
+.intro-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F5F7FB;
+    height: 100vh;
+    width: 100%;
+    flex-direction: column;
+}
+
+.header-nav{
+    color: #293264;
+}
+
+.intro-btn{
+    background-color: #4D5B9E;
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    height: 52px;
+    width: 193px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.intro-caption{
+    color: #293264;
+    font-weight: 400;
+}
